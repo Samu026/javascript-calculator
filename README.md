@@ -1,4 +1,4 @@
-#JavaScript persentage Calculator
+##JavaScript persentage Calculator
 
 #Project Overview
 
