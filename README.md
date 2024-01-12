@@ -25,7 +25,7 @@ JavaScript: Functionality for performing calculations and handling user input.
 
 **Installation :-**
 
-Clone the repository: git clone https://github.com/your-username/javascript-calculator.git
+Clone the repository: git clone https://github.com/Samu026/javascript-calculator.git
 Open the index.html file in your preferred web browser.
 
 **Usage :-**
